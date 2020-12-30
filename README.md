@@ -3,3 +3,5 @@
 
 链接：https://pan.baidu.com/s/12Yv3SL6ERJVBZOKwrA5LJw 
 提取码：qnay 
+
+环境： Python3.6 + Anaconda + tensorflow1.14.0 + keras2.3.1
